@@ -1,0 +1,8 @@
+flask
+flask-cors
+gspread
+google-auth
+python-dotenv
+pystray
+Pillow
+customtkinter
